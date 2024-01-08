@@ -168,3 +168,72 @@ button {
     margin: 40px;
     border: none;
 }
+
+.container-5 {
+    width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 70px 140px;
+}
+
+.container-5-left-text h6 {
+    width: 207px;
+    height: 30px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.container-5-left-text h1 {
+    width: 328px;
+    height: 60px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    text-transform: capitalize;
+}
+
+.container-5-left-text p {
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.container-5-oval {
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    border: 15px solid #F00;
+    padding: 49px 49px 49px 49px;
+}
+
+.container-5-right-text {
+    padding-left: 160px;
+}
+
+.container-5-right-text h5 {
+    width: 126px;
+    height: 58px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    
+    
+}
+
+.container-5-right-text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 10px 0px 40px 0px;
+}
