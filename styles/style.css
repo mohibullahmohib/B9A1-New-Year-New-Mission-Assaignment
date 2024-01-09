@@ -374,6 +374,7 @@
     margin: 0 auto;
     align-items: center;
     text-align: center;
+    padding-top: 80px;
 }
 
 .section-heading h2 {
@@ -404,6 +405,8 @@
     height: 72px;
     border-radius: 50px;
     background: #FFF;
+    margin: 20px auto;
+
 }
 
 .btn2 {
@@ -412,5 +415,22 @@
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     margin: 0 auto;
-    padding: 20px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
 }
+
+.newsletter form input {
+    flex-grow: 1;
+    border: none;
+    padding: 15px;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 20px;
+    outline: none;
+}
+
